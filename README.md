@@ -14,4 +14,4 @@ Prior to my work at the University of Leicester, I was part of the final cohort 
 
 ## Featured Projects
 ### Cost‑Utility Analysis Workflow (Stata) A reproducible pipeline for cost‑utility analysis using MI‑then‑bootstrap, gamma‑log GLMs, and automated exports.
-**Repo:** https://github.com/YOUR-USERNAME/WITHIN-TRIAL-ANALYSIS
+**Repo:** https://github.com/HannahWorboys41/WITHIN-TRIAL-ANALYSIS
