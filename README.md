@@ -10,3 +10,8 @@ As part of my professional development and motivation to upskill further within 
 Alongside my statistical and health economics skills, I am able to confidently discuss my work with a number of diverse audiences. These skills were gained through conducting patient and public involvement (PPI) in statistical methodology research, which included the development of various resources for PPI members. This includes an animation, infographics on case studies and a glossary of statistical terms for methodologists to distribute to PPI members. Through this work I have attended community events where we discuss our methods work, held a roundtable discussion at the society for clinical trials, been an invited speaker at the University of Bristol and Dublin, and co-hosted an NIHR funded workshop where 60 statistical methodologists attended.
 
 Prior to my work at the University of Leicester, I was part of the final cohort on the MSc in Economics and Health Economics at the University of Sheffield, funded by a NIHR studentship in Economics of Health. I also hold a first-class degree in Economics from the University of Manchester.
+
+
+## Featured Projects
+### Cost‑Utility Analysis Workflow (Stata) A reproducible pipeline for cost‑utility analysis using MI‑then‑bootstrap, gamma‑log GLMs, and automated exports.
+**Repo:** https://github.com/YOUR-USERNAME/WITHIN-TRIAL-ANALYSIS
